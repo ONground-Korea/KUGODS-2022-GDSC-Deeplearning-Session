@@ -9,6 +9,6 @@ Since this is a short study session, we will take a quick look at Deep Learning 
   - PyTorch nn
   - Assignment #1
 - Object Detection and Implementation
-  - PyTorch Custum Datasets and DataLoader
+  - PyTorch Custom Datasets and DataLoader
   - Assignment #2
 - TBD
