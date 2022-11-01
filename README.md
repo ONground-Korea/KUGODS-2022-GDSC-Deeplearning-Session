@@ -7,6 +7,6 @@ Since this is a short study session, we will take a quick look at Deep Learning 
 - What's New?
 - CNN and PyTorch
   - Assignment #1
-- Object Detection and Impelmentation
+- Object Detection and Implementation
   - Assignment #2
 - TBD
