@@ -4,11 +4,11 @@ KUGODS-2022-GDSC-Deeplearning-Session is the material (lecture notes, exercises 
 Since this is a short study session, we will take a quick look at Deep Learning (not deep diving..) and implement some significant models and pipelines.
 
 ### Contents
-- What's New?
-- CNN and PyTorch
+- **What's New?**
+- **CNN and PyTorch**
   - PyTorch nn
   - Assignment #1 (Implementation of AlexNet and VGG16)
-- Object Detection and Implementation
+- *Object Detection and Implementation**
   - PyTorch Custom Datasets and DataLoader
   - Assignment #2 (Implement Custom Dataset and Finetune Faster RCNN)
 - TBD
