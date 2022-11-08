@@ -7,8 +7,8 @@ Since this is a short study session, we will take a quick look at Deep Learning 
 - What's New?
 - CNN and PyTorch
   - PyTorch nn
-  - Assignment #1
+  - Assignment #1 (Implementation of AlexNet and VGG16)
 - Object Detection and Implementation
   - PyTorch Custom Datasets and DataLoader
-  - Assignment #2
+  - Assignment #2 (Implement Custom Dataset and Finetune Faster RCNN)
 - TBD
