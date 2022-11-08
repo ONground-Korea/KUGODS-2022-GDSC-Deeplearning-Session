@@ -3,3 +3,4 @@
 
 ### Contents
 1. Assginment1 - Implementation of AlexNet and VGG16
+2. Assignment2 - Implement Custom Dataset and Finetune Faster RCNN
