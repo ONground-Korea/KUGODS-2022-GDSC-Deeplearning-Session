@@ -5,3 +5,4 @@
 1. 0904 - Ice Breaking
 2. 1102 - CNN
 3. 1109 - Object Detection and RCNNs
+4. 1115 - Generative Models I (AutoRegressive, (Variational) AutoEncoders)
