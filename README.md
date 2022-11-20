@@ -11,4 +11,7 @@ Since this is a short study session, we will take a quick look at Deep Learning 
 - **Object Detection and Implementation**
   - PyTorch Custom Datasets and DataLoader
   - Assignment #2 (Implement Custom Dataset and Finetune Faster RCNN)
-- TBD
+- **Generative Models I** 
+  - AutoRegressive models, (Variational)AutoEncoder  
+- **Generative Models II**
+
