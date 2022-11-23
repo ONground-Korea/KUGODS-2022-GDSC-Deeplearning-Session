@@ -13,7 +13,8 @@ Since this is a short study session, we will take a quick look at Deep Learning 
   - Assignment #2 (Implement Custom Dataset and Finetune Faster RCNN)
 - **Generative Models I** [[Lecture Note]](https://github.com/ONground-Korea/KUGODS-2022-GDSC-Deeplearning-Session/blob/main/Lectures/1115.pdf)
   - AutoRegressive models, (Variational)AutoEncoder  
-- **Generative Models II**
+- **Generative Models II** [[Lecture Note]](https://github.com/ONground-Korea/KUGODS-2022-GDSC-Deeplearning-Session/blob/main/Lectures/1122.pdf)
+  - Variational AutoEncoders, Introduction of GANs
 
 ## References
 - [CS231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
