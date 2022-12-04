@@ -3,6 +3,9 @@ KUGODS-2022-GDSC-Deeplearning-Session is the material (lecture notes, exercises 
 
 Since this is a short study session, we will take a quick look at Deep Learning (not deep diving..) and implement some significant models and pipelines.
 
+## Instructor
+- [**Jisang Han**](https://github.com/ONground-Korea)
+
 ## Contents
 - **What's New?**
 - **CNN and PyTorch** [[Lecture Note]](https://github.com/ONground-Korea/KUGODS-2022-GDSC-Deeplearning-Session/blob/main/Lectures/1102.pdf) [[Assignment]](https://github.com/ONground-Korea/KUGODS-2022-GDSC-Deeplearning-Session/blob/main/Assignments/Assignment1.ipynb)
